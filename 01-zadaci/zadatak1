@@ -1,0 +1,9 @@
+Script started on 2022-10-21 15:22:36+02:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="130" LINES="50"]
+]0;adkuca@DESKTOP-Q6AMIVP: ~/dev/webapps-zadace[01;32madkuca@DESKTOP-Q6AMIVP[00m:[01;34m~/dev/webapps-zadace[00m$ node -v
+v16.17.1
+]0;adkuca@DESKTOP-Q6AMIVP: ~/dev/webapps-zadace[01;32madkuca@DESKTOP-Q6AMIVP[00m:[01;34m~/dev/webapps-zadace[00m$ npm -v
+8.15.0
+]0;adkuca@DESKTOP-Q6AMIVP: ~/dev/webapps-zadace[01;32madkuca@DESKTOP-Q6AMIVP[00m:[01;34m~/dev/webapps-zadace[00m$ exit
+exit
+
+Script done on 2022-10-21 15:22:51+02:00 [COMMAND_EXIT_CODE="0"]
